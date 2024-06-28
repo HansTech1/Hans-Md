@@ -4,6 +4,12 @@ A fun WhatsApp bot.
 
 <h4 align="center"> ✔️ No Heroku Ban! ✔️</h4>
 
+<p align="center">
+  <a href="https://telegra.ph/file/eb96c716a327862d66078.jpg">
+    <img alt="Fance MD" height="400" src="https://telegra.ph/file/eb96c716a327862d66078.jpg">
+  </a>
+</p>
+
 ## Setup
 
 1. Deploy on Heroku
