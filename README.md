@@ -2,7 +2,7 @@
 
 A fun WhatsApp bot.
 
-<a> NO HEROKU BAN
+<h4 align="center"> ✔️ No Heroku Ban! ✔️</h4>
 
 ## Setup
 
