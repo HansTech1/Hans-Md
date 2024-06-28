@@ -3,7 +3,7 @@
 A fun WhatsApp bot.
 
 <h4 align="center"> ✔️ No Heroku Ban! ✔️</h4>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
 
 <p align="center">
   <a href="https://telegra.ph/file/eb96c716a327862d66078.jpg">
