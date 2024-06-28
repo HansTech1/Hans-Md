@@ -92,5 +92,5 @@ A fun WhatsApp bot.
 
 ### By Harold Mth 
 
-- [GITHUB](GITHUB.COM/HAROLDMTH)
-- [WHATSAPP](Wa.me/237696900612?text=Hi+Harold) 
+- [GITHUB](HTTPS://GITHUB.COM/HAROLDMTH)
+- [WHATSAPP](HTTPS://Wa.me/237696900612?text=Hi+Harold) 
