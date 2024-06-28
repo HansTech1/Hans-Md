@@ -90,7 +90,7 @@ A fun WhatsApp bot.
         - To start the bot: `pm2 start . --name botName --attach --time`
         - To stop the bot: `pm2 stop botName`
 
-### Thanks To
+### By Harold Mth 
 
-- [Yusuf Usta](https://github.com/Quiec) for [WhatsAsena](https://github.com/yusufusta/WhatsAsena)
-- [@adiwajshing](https://github.com/adiwajshing) for [Baileys](https://github.com/adiwajshing/Baileys)
+- [GITHUB](GITHUB.COM/HAROLDMTH)
+- [WHATSAPP](Wa.me/237696900612?text=Hi+Harold) 
