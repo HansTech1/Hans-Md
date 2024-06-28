@@ -1,6 +1,8 @@
-### WhatsApp MD User Bot
+### Hans-MD WhatsApp bot
 
-A simple WhatsApp User bot.
+A fun WhatsApp bot.
+
+<a> NO HEROKU BAN
 
 ## Setup
 
