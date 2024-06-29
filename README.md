@@ -10,7 +10,7 @@ A fun WhatsApp bot.
     <img alt="Fance MD" height="400" src="https://telegra.ph/file/eb96c716a327862d66078.jpg">
   </a>
 </p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=7000&pause=1000&color=7AF700&random=false&width=435&lines=%F0%9D%99%83%F0%9D%99%96%F0%9D%99%A3%F0%9D%99%A8-%F0%9D%99%88%F0%9D%99%99+%F0%9D%99%88%F0%9D%99%90%F0%9D%99%87%F0%9D%99%8F%F0%9D%99%84%F0%9D%99%81%F0%9D%99%90%F0%9D%99%89%F0%9D%98%BE%F0%9D%99%8F%F0%9D%99%84%F0%9D%99%8A%F0%9D%99%89%F0%9D%98%BC%F0%9D%99%87+%F0%9D%98%BD%F0%9D%99%8A%F0%9D%99%8F;How+vexingly+quick+daft+zebras+jump" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=7000&pause=1000&color=7AF700&random=false&width=435&lines=%F0%9D%99%83%F0%9D%99%96%F0%9D%99%A3%F0%9D%99%A8-%F0%9D%99%88%F0%9D%99%99+%F0%9D%99%88%F0%9D%99%90%F0%9D%99%87%F0%9D%99%8F%F0%9D%99%84%F0%9D%99%81%F0%9D%99%90%F0%9D%99%89%F0%9D%98%BE%F0%9D%99%8F%F0%9D%99%84%F0%9D%99%8A%F0%9D%99%89%F0%9D%98%BC%F0%9D%99%87+%F0%9D%98%BD%F0%9D%99%8A%F0%9D%99%8F;Hans+Md+MULTIFUNCTIONAL+Bot+MD" alt="Typing SVG" /></a>
 ## Setup
 
 1. Deploy on Heroku
